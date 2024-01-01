@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulaleem2000
 - 👀 I’m interested in development
-- 🌱 I’m currently computer science student.
-- 💞️ I’m looking to collaborate on any android and desktop application development project.
+- 🌱 I’m currently working as Full Stack Developer.
+- 💞️ I’m looking to collaborate on any nextjs, mern and web3 application.
 - 📫 You can reach me through my email abdulaleemzafar515@gmail.com
 
 <!---
